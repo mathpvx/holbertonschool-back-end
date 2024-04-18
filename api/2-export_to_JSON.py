@@ -4,9 +4,9 @@ list progress identified by ID, using REST API.
 Export data in Json format."""
 
 
+import json
 import requests
 import sys
-import json
 
 
 if __name__ == "__main__":
